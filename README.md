@@ -2,6 +2,7 @@
  Cheat for Counter Strike 1.6 (Wall hack)
  
 [+]Folders SHOULD NOT HAVE ANY SPACE. Otherwise IT WILL NOT WORK.
+
 [+] To activate the wall hack press f1, and to close press f1 as well.
 ![1](https://user-images.githubusercontent.com/36111719/116784159-65d45880-aa9b-11eb-9dc7-612995cb3227.PNG)
 # How to use
