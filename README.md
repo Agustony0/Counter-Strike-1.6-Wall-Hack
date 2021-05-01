@@ -7,8 +7,10 @@
 # How to use
 1.Start the program bin>Debug>whcs16, after opening the program press 1 (Injection).
 ![11](https://user-images.githubusercontent.com/36111719/116784649-01ff5f00-aa9e-11eb-871d-1513170998b6.PNG)
+
 2.Enter the location of the Counter Strike 1.6 folder, after the location of the folder where the program is (the wall hack).
 ![234](https://user-images.githubusercontent.com/36111719/116785254-345e8b80-aaa1-11eb-82f0-5737f51f23a8.PNG)
+
 3.After pressing enter you should see the following: 1 file (s) copied. If you see this, it means that you have gone through all the steps correctly.
 ![141](https://user-images.githubusercontent.com/36111719/116785424-1f362c80-aaa2-11eb-8c55-cc19fcc68eca.PNG)
 
